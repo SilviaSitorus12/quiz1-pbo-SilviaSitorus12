@@ -1,0 +1,15 @@
+ChatGPT
+Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del. tolong bantu saya dalam pengerjaan tugas tersebut
+bantu saya untuk memiliki gambaran akan fitur tersebut
+kalau dibuat kedalam code djava pasti kan ada class dan object
+saya mau membuat dengan konsep yang telah diajari di kelas yaitu object class attribute method nya
+saya ingin membuat versi yang bagusnya, tolong ajari saya dalam pembuatannya
+tolong bantu saya dengan versi lengkap dan jelasnya dan saya juga mau untuk dijelaskan
+(KIRIM KODE) apakah ini sudah benar?
+(Kirim Gambar) terjadi error
+(Kirim Gambar)
+(Kirim Gambar) ini bagian dari public class driver 3
+(Kirim Gambar) tetap tidak bisa
+(Kirim Gambar) 
+tolong jelaskan programnya dengan baik dan benar
+kalau membuat relationshipnya itu untuk hubungan antara owner dan pelanggan kan?
